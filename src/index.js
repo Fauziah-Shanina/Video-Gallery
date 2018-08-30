@@ -3,7 +3,7 @@ import ReactDom from 'react-dom';
 //We have to write the path reference when we import custom components
 import SearchBar from './components/search_bar';
 
-
+//INSERT API KEY HERE
 //Create a new component . This component shoulde produce some html
 
 //const is similar to var , it has been used because we are not going to reassign the app in next time
